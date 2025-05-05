@@ -11,7 +11,9 @@
 #### **🎞️ \[0–3s] Hook – Diqqatni ushlash**
 
 🎥 Model qiz kameraga qarab, jiddiy ohangda:
+
 🗣️ **"You have a great idea… but no team to build it?"**
+
 📍 Subtitr: Katta shrift, qora fonda oq/yashil
 
 ---
@@ -19,7 +21,9 @@
 #### **🎞️ \[4–10s] YeCHIM – DeepSpac**
 
 🎥 Model kulib, ishonch bilan:
+
 🗣️ **"We’re your full-stack IT team — from bots to business automation."**
+
 📍 Kadrda DeepSpac logosi va xizmatlar fon animatsiyada
 
 ---
@@ -40,7 +44,9 @@
 #### **🎞️ \[19–25s] Ishonch uyg‘otish**
 
 🎥 Model jiddiy ohangda, kameraga tik qaraydi:
+
 🗣️ **"Professional developers. Real results. 100% custom-built for your business."**
+
 📍 Fon: Kod yozilayotgan yoki app dizayni animatsiyasi
 
 ---
@@ -48,8 +54,11 @@
 #### **🎞️ \[26–30s] CTA – Harakatga chaqirish**
 
 🎥 Model telefon ko‘rsatadi, ishonch bilan:
+
 🗣️ **"Click the link in bio, leave your contact — let’s build your next big thing!"**
+
 📍 Subtitr: “1-2 ish kuni ichida siz bilan bog‘lanamiz ✅”
+
 🎵 Fon musiqa: Motivatsion, zamonaviy tech-style beat
 
 ---
