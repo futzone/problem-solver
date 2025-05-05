@@ -69,6 +69,3 @@ Mana siz uchun **DeepSpac IT kompaniyasi** uchun **30 kunlik Instagram, Telegram
 | 29  | CTA: “Biznesingizni AI bilan kuchaytiring”      | Bold poster + Form link | IG, LinkedIn |
 | 30  | Dam olish + giveaway (masalan: bepul audit)     | Carousel + Link         | IG, TG       |
 
----
-
-Agar hohlasangiz, har bir post uchun **tayyor caption, dizayn brief, reels ssenariylari** ham beraman. Shuni qilishni xohlaysizmi?
